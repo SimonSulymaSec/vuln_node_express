@@ -1,5 +1,7 @@
 Testing CodeQL Attempt 1
 
+Change 2
+
 # Vulnerable Node Express
 
 This is a vulnerable Node Express service meant to be used as a target for security testing tools.
